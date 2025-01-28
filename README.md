@@ -5,7 +5,7 @@ A new publicly available dataset consisting of 289 life story interviews (365 ho
 ## Dataset
 | Hugging Face |
 | ------------ |
-| [https://huggingface.co/datasets/nilc-nlp/CORAA-NURC-SP-Audio-Corpus](https://huggingface.co/datasets/nilc-nlp/CORAA-MUPE-ASR) |
+| [https://huggingface.co/datasets/nilc-nlp/CORAA-MUPE-ASR](https://huggingface.co/datasets/nilc-nlp/CORAA-MUPE-ASR) |
 
 ## Model
 | Hugging Face |
