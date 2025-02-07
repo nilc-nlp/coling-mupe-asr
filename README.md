@@ -35,7 +35,7 @@ year={2025}
 
 ## Sponsors / Funding
 
-This work was carried out at the Center for Artificial Intelligence (C4AI-USP), with support by the São Paulo Research Foundation (FAPESP grant \#2019/07665-4) and by the IBM Corporation.  This project was also supported by the Ministry of Science, Technology and Innovation, with resources of Law No. 8.248, of October 23, 1991, within the scope of PPI-SOFTEX, coordinated by Softex and published Residence in TIC 13, DOU 01245.010222/2022-44.
+This work was carried out at the Center for Artificial Intelligence (C4AI-USP), with support by the São Paulo Research Foundation (FAPESP grant #2019/07665-4) and by the IBM Corporation. This project was also supported by the Ministry of Science, Technology and Innovation, with resources of Law No. 8.248, of October 23, 1991, within the scope of PPI-SOFTEX, coordinated by Softex and published Residence in TIC 13, DOU 01245.010222/2022-44. This work has been partially supported by Advanced Knowledge Center in Immersive Technologies (AKCIT/CEIA), with financial resources from the PPI IoT/Manufatura 4.0 / PPI HardwareBR of the MCTI, signed with EMBRAPII.
 
 
 # Examples
