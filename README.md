@@ -6,6 +6,7 @@ A new publicly available dataset consisting of 289 life story interviews (365 ho
 | Hugging Face |
 | ------------ |
 | [https://huggingface.co/datasets/nilc-nlp/CORAA-MUPE-ASR](https://huggingface.co/datasets/nilc-nlp/CORAA-MUPE-ASR) |
+| [https://huggingface.co/datasets/nilc-nlp/CORAA-MUPE-ASR-GZ](https://huggingface.co/datasets/nilc-nlp/CORAA-MUPE-ASR-GZ) (zip and csv files)|
 
 ## Model
 | Hugging Face |
