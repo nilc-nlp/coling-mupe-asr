@@ -38,6 +38,25 @@ year={2025}
 
 This work was carried out at the Center for Artificial Intelligence (C4AI-USP), with support by the São Paulo Research Foundation (FAPESP grant #2019/07665-4) and by the IBM Corporation. This project was also supported by the Ministry of Science, Technology and Innovation, with resources of Law No. 8.248, of October 23, 1991, within the scope of PPI-SOFTEX, coordinated by Softex and published Residence in TIC 13, DOU 01245.010222/2022-44. This work has been partially supported by Advanced Knowledge Center in Immersive Technologies (AKCIT/CEIA), with financial resources from the PPI IoT/Manufatura 4.0 / PPI HardwareBR of the MCTI, signed with EMBRAPII.
 
+## Metadata:
+- **audio_id**: Sequential id for the interview;
+- **audio_name**: Unique code for the interview;
+- **file_path**: Wav audio file path;
+- **speaker_type**: R is the interviewee, P/1 is interviewer 1, P/2 is interviewer 2 and so on;
+- **speaker_code**: Unique code for the speaker;
+- **speaker_gender**: Gender of the speaker;
+- **education**:  Education level of the interviewee, filled only when speaker_type = 'R';
+- **birth_state**: Birth state (region) of the interviewee, filled only when speaker_type = 'R';
+- **birth_country**: Birth country of the speaker;
+- **age**: Age of the interviewee, filled only when speaker_type = 'R';
+- **recording_year**: The year when the audio was recorded;
+- **audio_quality**: Can be high or low;
+- **start_time**: The start time in the original complete audio file;
+- **end_time**: The end time in the original complete audio file;
+- **duration**: The duration of the segment;
+- **normalized_text**: Text normalized in lowercase and without punctuation marks;
+- **original_text**: Text before normalization.
+
 
 # Examples
 Because of files size, the dataset is available at huggingface. But here all the csv's files with metadata for training, validation and test subsets, and a sample for the audio files.
