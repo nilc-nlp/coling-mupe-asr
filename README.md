@@ -48,7 +48,7 @@ This work was carried out at the Center for Artificial Intelligence (C4AI-USP), 
 - **education**:  Education level of the interviewee, filled only when speaker_type = 'R';
 - **birth_state**: Birth state (region) of the interviewee, filled only when speaker_type = 'R';
 - **birth_country**: Birth country of the speaker;
-- **age**: Age of the interviewee, filled only when speaker_type = 'R';
+- **age**: Age of the interviewee, calculated with recording_year minus year of birth, filled only when speaker_type = 'R';
 - **recording_year**: The year when the audio was recorded;
 - **audio_quality**: Can be high or low;
 - **start_time**: The start time in the original complete audio file;
